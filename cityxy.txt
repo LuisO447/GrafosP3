@@ -1,0 +1,17 @@
+Jutiapa,80,78
+El_progreso,180,67
+Catocha,360,75
+Mita,696,66
+Agua_blanca,550,120
+Yupiltepeque,76,123
+Atescatempa,630,130
+Jerez,750,110
+El_adelanto,60,164
+Comapa,260,170
+Zapotitlan,440,166
+Jalpatagua,700,165
+Conguaco,200,270
+Moyuta,300,290
+Pasaco,420,240
+Acatempa,540,215
+Quezada,640,200
